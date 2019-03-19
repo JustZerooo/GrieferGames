@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Test-Bungee/Test Server - Kopie - Kopie/spigot1.8.jar"/>
+	<classpathentry kind="lib" path="G:/Test-Bungee/Test Server - Kopie - Kopie/plugins/PlotSquared.jar"/>
+	<classpathentry kind="lib" path="G:/Test-Bungee/Test Server - Kopie - Kopie/plugins/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="G:/Test-Bungee/Test Server - Kopie - Kopie/plugins/HolographicDisplays (3).jar"/>
+	<classpathentry kind="lib" path="G:/Test-Bungee/Test Server - Kopie - Kopie/plugins/Essentials-2.x-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
